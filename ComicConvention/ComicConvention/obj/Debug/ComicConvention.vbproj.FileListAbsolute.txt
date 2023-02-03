@@ -1,0 +1,12 @@
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\bin\Debug\ComicConvention.exe.config
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\bin\Debug\ComicConvention.exe
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\bin\Debug\ComicConvention.pdb
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\bin\Debug\ComicConvention.xml
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\obj\Debug\ComicConvention.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\obj\Debug\ComicConvention.frmComicConvention.resources
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\obj\Debug\ComicConvention.Resources.resources
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\obj\Debug\ComicConvention.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\obj\Debug\ComicConvention.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\obj\Debug\ComicConvention.exe
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\obj\Debug\ComicConvention.xml
+D:\VisualBasic\VB17.Chapter05\ComicConvention\ComicConvention\obj\Debug\ComicConvention.pdb
