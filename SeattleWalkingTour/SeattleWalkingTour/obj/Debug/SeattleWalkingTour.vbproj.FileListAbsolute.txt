@@ -1,0 +1,12 @@
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\bin\Debug\SeattleWalkingTour.exe.config
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\bin\Debug\SeattleWalkingTour.exe
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\bin\Debug\SeattleWalkingTour.pdb
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\bin\Debug\SeattleWalkingTour.xml
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\obj\Debug\SeattleWalkingTour.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\obj\Debug\SeattleWalkingTour.frmWalkingTour.resources
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\obj\Debug\SeattleWalkingTour.Resources.resources
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\obj\Debug\SeattleWalkingTour.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\obj\Debug\SeattleWalkingTour.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\obj\Debug\SeattleWalkingTour.exe
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\obj\Debug\SeattleWalkingTour.xml
+D:\VisualBasic\VB17.Chapter.04\SeattleWalkingTour\SeattleWalkingTour\obj\Debug\SeattleWalkingTour.pdb
