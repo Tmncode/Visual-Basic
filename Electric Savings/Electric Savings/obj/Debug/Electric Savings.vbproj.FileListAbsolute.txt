@@ -1,0 +1,12 @@
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\bin\Debug\Electric Savings.exe.config
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\bin\Debug\Electric Savings.exe
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\bin\Debug\Electric Savings.pdb
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\bin\Debug\Electric Savings.xml
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\obj\Debug\Electric Savings.vbprojAssemblyReference.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\obj\Debug\Electric_Savings.ElectricApplication.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\obj\Debug\Electric_Savings.Resources.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\obj\Debug\Electric Savings.vbproj.GenerateResource.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\obj\Debug\Electric Savings.vbproj.CoreCompileInputs.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\obj\Debug\Electric Savings.exe
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\obj\Debug\Electric Savings.xml
+H:\Visual Basic 2017\VB17-Chapter.08\Electric Savings\Electric Savings\obj\Debug\Electric Savings.pdb
