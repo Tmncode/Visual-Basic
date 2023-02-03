@@ -1,0 +1,12 @@
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\bin\Debug\DeckingCostCalculator.exe.config
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\bin\Debug\DeckingCostCalculator.exe
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\bin\Debug\DeckingCostCalculator.pdb
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\bin\Debug\DeckingCostCalculator.xml
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\obj\Debug\DeckingCostCalculator.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\obj\Debug\DeckingCostCalculator.frmDeckingCost.resources
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\obj\Debug\DeckingCostCalculator.Resources.resources
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\obj\Debug\DeckingCostCalculator.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\obj\Debug\DeckingCostCalculator.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\obj\Debug\DeckingCostCalculator.exe
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\obj\Debug\DeckingCostCalculator.xml
+D:\VisualBasic\VB17.Chapter05\DeckingCostCalculator\DeckingCostCalculator\obj\Debug\DeckingCostCalculator.pdb
