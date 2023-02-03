@@ -1,0 +1,12 @@
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\bin\Debug\RainFall.exe.config
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\bin\Debug\RainFall.exe
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\bin\Debug\RainFall.pdb
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\bin\Debug\RainFall.xml
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\obj\Debug\RainFall.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\obj\Debug\RainFall.frmRainFall.resources
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\obj\Debug\RainFall.Resources.resources
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\obj\Debug\RainFall.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\obj\Debug\RainFall.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\obj\Debug\RainFall.exe
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\obj\Debug\RainFall.xml
+D:\VisualBasic\VB17.Chapter06\RainFall\RainFall\obj\Debug\RainFall.pdb
