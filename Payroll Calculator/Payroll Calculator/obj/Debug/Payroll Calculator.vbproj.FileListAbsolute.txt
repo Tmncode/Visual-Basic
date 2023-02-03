@@ -1,0 +1,12 @@
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.exe.config
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.exe
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.pdb
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.xml
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll_Calculator.frmPayroll.resources
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll_Calculator.Resources.resources
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.exe
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.xml
+D:\VisualBasic\VB17.Chapter.04\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.pdb
