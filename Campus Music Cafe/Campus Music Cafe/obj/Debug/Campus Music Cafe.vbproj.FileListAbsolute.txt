@@ -1,0 +1,24 @@
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\bin\Debug\Campus Music Cafe.exe.config
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\bin\Debug\Campus Music Cafe.exe
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\bin\Debug\Campus Music Cafe.pdb
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\bin\Debug\Campus Music Cafe.xml
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus_Music_Cafe.frmCampusMusicCafe.resources
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus_Music_Cafe.Resources.resources
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.vbproj.GenerateResource.cache
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.exe
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.xml
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.pdb
+D:\VisualBasic\VB.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.vbprojAssemblyReference.cache
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\bin\Debug\Campus Music Cafe.exe.config
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\bin\Debug\Campus Music Cafe.exe
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\bin\Debug\Campus Music Cafe.pdb
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\bin\Debug\Campus Music Cafe.xml
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.vbprojAssemblyReference.cache
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus_Music_Cafe.frmCampusMusicCafe.resources
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus_Music_Cafe.Resources.resources
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.vbproj.GenerateResource.cache
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.vbproj.CoreCompileInputs.cache
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.exe
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.xml
+D:\VisualBasic Programs\VB17.Chapter.03\Campus Music Cafe\Campus Music Cafe\obj\Debug\Campus Music Cafe.pdb
