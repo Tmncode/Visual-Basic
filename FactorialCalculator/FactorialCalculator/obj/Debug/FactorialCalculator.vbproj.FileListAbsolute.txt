@@ -1,0 +1,12 @@
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe.config
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.pdb
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.xml
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.frmFactorial.resources
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.Resources.resources
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.exe
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.xml
+D:\VisualBasic\VB17.Chapter06\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.pdb
