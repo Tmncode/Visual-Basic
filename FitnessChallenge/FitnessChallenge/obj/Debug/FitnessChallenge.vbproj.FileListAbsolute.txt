@@ -1,0 +1,16 @@
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\bin\Debug\FitnessChallenge.exe.config
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\bin\Debug\FitnessChallenge.exe
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\bin\Debug\FitnessChallenge.pdb
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\bin\Debug\FitnessChallenge.xml
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.frmFitness.resources
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.Resources.resources
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.exe
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.xml
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.pdb
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\bin\Debug\FitnessChallenge.exe.manifest
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\bin\Debug\FitnessChallenge.application
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.exe.manifest
+D:\VisualBasic\VB17.Chapter06\FitnessChallenge\FitnessChallenge\obj\Debug\FitnessChallenge.application
