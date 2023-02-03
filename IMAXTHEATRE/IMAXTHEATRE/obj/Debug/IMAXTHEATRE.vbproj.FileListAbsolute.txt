@@ -1,0 +1,13 @@
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\obj\Debug\IMAXTHEATRE.vbprojAssemblyReference.cache
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\obj\Debug\IMAXTHEATRE.frmIMAX.resources
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\obj\Debug\IMAXTHEATRE.Resources.resources
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\obj\Debug\IMAXTHEATRE.SplashScreen1.resources
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\obj\Debug\IMAXTHEATRE.vbproj.GenerateResource.cache
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\obj\Debug\IMAXTHEATRE.vbproj.CoreCompileInputs.cache
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\bin\Debug\IMAXTHEATRE.exe.config
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\bin\Debug\IMAXTHEATRE.exe
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\bin\Debug\IMAXTHEATRE.pdb
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\bin\Debug\IMAXTHEATRE.xml
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\obj\Debug\IMAXTHEATRE.exe
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\obj\Debug\IMAXTHEATRE.xml
+H:\Visual Basic 2017\VB17-Chapter.07\IMAXTHEATRE\IMAXTHEATRE\obj\Debug\IMAXTHEATRE.pdb
