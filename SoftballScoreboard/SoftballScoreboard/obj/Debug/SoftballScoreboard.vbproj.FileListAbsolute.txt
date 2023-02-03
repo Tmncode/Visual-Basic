@@ -1,0 +1,12 @@
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\bin\Debug\SoftballScoreboard.exe.config
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\bin\Debug\SoftballScoreboard.exe
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\bin\Debug\SoftballScoreboard.pdb
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\bin\Debug\SoftballScoreboard.xml
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.frmSoftBall.resources
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.Resources.resources
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.exe
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.xml
+D:\VisualBasic\VB17.Chapter06\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.pdb
