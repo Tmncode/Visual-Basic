@@ -1,0 +1,12 @@
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\bin\Debug\FitnessTrackerApp.exe.config
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\bin\Debug\FitnessTrackerApp.exe
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\bin\Debug\FitnessTrackerApp.pdb
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\bin\Debug\FitnessTrackerApp.xml
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\FitnessTrackerApp.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\FitnessTrackerApp.frmFitnessTracker.resources
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\FitnessTrackerApp.Resources.resources
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\FitnessTrackerApp.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\FitnessTrackerApp.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\FitnessTrackerApp.exe
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\FitnessTrackerApp.xml
+D:\VisualBasic\VB17.Chapter.04\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\FitnessTrackerApp.pdb
