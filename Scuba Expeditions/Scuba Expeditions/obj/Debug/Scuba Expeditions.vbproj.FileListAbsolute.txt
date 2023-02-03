@@ -1,0 +1,13 @@
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.vbprojAssemblyReference.cache
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba_Expeditions.Resources.resources
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.vbproj.GenerateResource.cache
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.vbproj.CoreCompileInputs.cache
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba_Expeditions.frmScuba.resources
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\bin\Debug\Scuba Expeditions.exe.config
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\bin\Debug\Scuba Expeditions.exe
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\bin\Debug\Scuba Expeditions.pdb
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\bin\Debug\Scuba Expeditions.xml
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba_Expeditions.SplashScreen2.resources
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.exe
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.xml
+H:\Visual Basic 2017\VB17-Chapter.07\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.pdb

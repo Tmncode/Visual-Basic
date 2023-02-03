@@ -1,0 +1,213 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class frmScuba
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.cboLocation = New System.Windows.Forms.ComboBox()
+        Me.lblTitle = New System.Windows.Forms.Label()
+        Me.lblTeam = New System.Windows.Forms.Label()
+        Me.txtTeam = New System.Windows.Forms.TextBox()
+        Me.lblSelect = New System.Windows.Forms.Label()
+        Me.lstDive = New System.Windows.Forms.ListBox()
+        Me.btnDiveCost = New System.Windows.Forms.Button()
+        Me.btnClear = New System.Windows.Forms.Button()
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.lblCost = New System.Windows.Forms.Label()
+        Me.lblLength = New System.Windows.Forms.Label()
+        Me.lblScubaDive = New System.Windows.Forms.Label()
+        Me.SuspendLayout()
+        '
+        'cboLocation
+        '
+        Me.cboLocation.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cboLocation.FormattingEnabled = True
+        Me.cboLocation.Items.AddRange(New Object() {"Australia", "Belize", "Fiji"})
+        Me.cboLocation.Location = New System.Drawing.Point(493, 55)
+        Me.cboLocation.Name = "cboLocation"
+        Me.cboLocation.Size = New System.Drawing.Size(188, 33)
+        Me.cboLocation.TabIndex = 0
+        Me.cboLocation.Text = "Select Location"
+        '
+        'lblTitle
+        '
+        Me.lblTitle.AutoSize = True
+        Me.lblTitle.Font = New System.Drawing.Font("Stencil", 21.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblTitle.ForeColor = System.Drawing.Color.MidnightBlue
+        Me.lblTitle.Location = New System.Drawing.Point(356, 9)
+        Me.lblTitle.Name = "lblTitle"
+        Me.lblTitle.Size = New System.Drawing.Size(442, 34)
+        Me.lblTitle.TabIndex = 1
+        Me.lblTitle.Text = "Oceanic Scuba Expeditions"
+        '
+        'lblTeam
+        '
+        Me.lblTeam.AutoSize = True
+        Me.lblTeam.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblTeam.Location = New System.Drawing.Point(456, 108)
+        Me.lblTeam.Name = "lblTeam"
+        Me.lblTeam.Size = New System.Drawing.Size(225, 25)
+        Me.lblTeam.TabIndex = 2
+        Me.lblTeam.Text = "Number in Dive Team:"
+        Me.lblTeam.Visible = False
+        '
+        'txtTeam
+        '
+        Me.txtTeam.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtTeam.Location = New System.Drawing.Point(696, 105)
+        Me.txtTeam.Name = "txtTeam"
+        Me.txtTeam.Size = New System.Drawing.Size(39, 31)
+        Me.txtTeam.TabIndex = 3
+        Me.txtTeam.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtTeam.Visible = False
+        '
+        'lblSelect
+        '
+        Me.lblSelect.AutoSize = True
+        Me.lblSelect.BackColor = System.Drawing.SystemColors.Window
+        Me.lblSelect.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblSelect.ForeColor = System.Drawing.Color.MidnightBlue
+        Me.lblSelect.Location = New System.Drawing.Point(487, 143)
+        Me.lblSelect.Name = "lblSelect"
+        Me.lblSelect.Size = New System.Drawing.Size(194, 25)
+        Me.lblSelect.TabIndex = 4
+        Me.lblSelect.Text = "Select Scuba Dive:"
+        Me.lblSelect.Visible = False
+        '
+        'lstDive
+        '
+        Me.lstDive.BackColor = System.Drawing.SystemColors.Window
+        Me.lstDive.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lstDive.FormattingEnabled = True
+        Me.lstDive.ItemHeight = 24
+        Me.lstDive.Items.AddRange(New Object() {"Great Barrier Reef", "Tiger Shark", "Fathom Chasm"})
+        Me.lstDive.Location = New System.Drawing.Point(488, 171)
+        Me.lstDive.Name = "lstDive"
+        Me.lstDive.Size = New System.Drawing.Size(193, 76)
+        Me.lstDive.TabIndex = 5
+        Me.lstDive.Visible = False
+        '
+        'btnDiveCost
+        '
+        Me.btnDiveCost.BackColor = System.Drawing.Color.MidnightBlue
+        Me.btnDiveCost.ForeColor = System.Drawing.Color.White
+        Me.btnDiveCost.Location = New System.Drawing.Point(391, 270)
+        Me.btnDiveCost.Name = "btnDiveCost"
+        Me.btnDiveCost.Size = New System.Drawing.Size(169, 40)
+        Me.btnDiveCost.TabIndex = 6
+        Me.btnDiveCost.Text = "Dive Cost"
+        Me.btnDiveCost.UseVisualStyleBackColor = False
+        Me.btnDiveCost.Visible = False
+        '
+        'btnClear
+        '
+        Me.btnClear.BackColor = System.Drawing.Color.MidnightBlue
+        Me.btnClear.DialogResult = System.Windows.Forms.DialogResult.Cancel
+        Me.btnClear.ForeColor = System.Drawing.Color.White
+        Me.btnClear.Location = New System.Drawing.Point(585, 270)
+        Me.btnClear.Name = "btnClear"
+        Me.btnClear.Size = New System.Drawing.Size(169, 40)
+        Me.btnClear.TabIndex = 7
+        Me.btnClear.Text = "Clear Form"
+        Me.btnClear.UseVisualStyleBackColor = False
+        Me.btnClear.Visible = False
+        '
+        'Panel1
+        '
+        Me.Panel1.BackColor = System.Drawing.Color.Transparent
+        Me.Panel1.Location = New System.Drawing.Point(0, 0)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(350, 431)
+        Me.Panel1.TabIndex = 8
+        '
+        'lblCost
+        '
+        Me.lblCost.AutoSize = True
+        Me.lblCost.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblCost.Location = New System.Drawing.Point(487, 356)
+        Me.lblCost.Name = "lblCost"
+        Me.lblCost.Size = New System.Drawing.Size(180, 25)
+        Me.lblCost.TabIndex = 9
+        Me.lblCost.Text = "XXXXXXXXXXXX"
+        Me.lblCost.Visible = False
+        '
+        'lblLength
+        '
+        Me.lblLength.AutoSize = True
+        Me.lblLength.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblLength.Location = New System.Drawing.Point(487, 381)
+        Me.lblLength.Name = "lblLength"
+        Me.lblLength.Size = New System.Drawing.Size(180, 25)
+        Me.lblLength.TabIndex = 10
+        Me.lblLength.Text = "XXXXXXXXXXXX"
+        Me.lblLength.Visible = False
+        '
+        'lblScubaDive
+        '
+        Me.lblScubaDive.AutoSize = True
+        Me.lblScubaDive.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblScubaDive.Location = New System.Drawing.Point(487, 331)
+        Me.lblScubaDive.Name = "lblScubaDive"
+        Me.lblScubaDive.Size = New System.Drawing.Size(180, 25)
+        Me.lblScubaDive.TabIndex = 11
+        Me.lblScubaDive.Text = "XXXXXXXXXXXX"
+        Me.lblScubaDive.Visible = False
+        '
+        'frmScuba
+        '
+        Me.AcceptButton = Me.btnDiveCost
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.White
+        Me.CancelButton = Me.btnClear
+        Me.ClientSize = New System.Drawing.Size(794, 431)
+        Me.Controls.Add(Me.lblScubaDive)
+        Me.Controls.Add(Me.lblLength)
+        Me.Controls.Add(Me.lblCost)
+        Me.Controls.Add(Me.Panel1)
+        Me.Controls.Add(Me.btnClear)
+        Me.Controls.Add(Me.btnDiveCost)
+        Me.Controls.Add(Me.lstDive)
+        Me.Controls.Add(Me.lblSelect)
+        Me.Controls.Add(Me.txtTeam)
+        Me.Controls.Add(Me.lblTeam)
+        Me.Controls.Add(Me.lblTitle)
+        Me.Controls.Add(Me.cboLocation)
+        Me.Name = "frmScuba"
+        Me.Text = "Scuba Expeditions:"
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+
+    Friend WithEvents cboLocation As ComboBox
+    Friend WithEvents lblTitle As Label
+    Friend WithEvents lblTeam As Label
+    Friend WithEvents txtTeam As TextBox
+    Friend WithEvents lblSelect As Label
+    Friend WithEvents lstDive As ListBox
+    Friend WithEvents btnDiveCost As Button
+    Friend WithEvents btnClear As Button
+    Friend WithEvents Panel1 As Panel
+    Friend WithEvents lblCost As Label
+    Friend WithEvents lblLength As Label
+    Friend WithEvents lblScubaDive As Label
+End Class
