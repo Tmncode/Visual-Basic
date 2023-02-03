@@ -1,0 +1,12 @@
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\bin\Debug\LatteSelection.exe.config
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\bin\Debug\LatteSelection.exe
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\bin\Debug\LatteSelection.pdb
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\bin\Debug\LatteSelection.xml
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\obj\Debug\LatteSelection.vbprojAssemblyReference.cache
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\obj\Debug\LatteSelection.frmLatteSelection.resources
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\obj\Debug\LatteSelection.Resources.resources
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\obj\Debug\LatteSelection.vbproj.GenerateResource.cache
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\obj\Debug\LatteSelection.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\obj\Debug\LatteSelection.exe
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\obj\Debug\LatteSelection.xml
+D:\VisualBasic\VB.Chapter.03\LatteSelection\LatteSelection\obj\Debug\LatteSelection.pdb
