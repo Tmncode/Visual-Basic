@@ -1,0 +1,12 @@
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\bin\Debug\Healthy Snack Selection.exe.config
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\bin\Debug\Healthy Snack Selection.exe
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\bin\Debug\Healthy Snack Selection.pdb
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\bin\Debug\Healthy Snack Selection.xml
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\obj\Debug\Healthy Snack Selection.vbprojAssemblyReference.cache
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\obj\Debug\Healthy_Snack_Selection.HealthySnackSelection.resources
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\obj\Debug\Healthy_Snack_Selection.Resources.resources
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\obj\Debug\Healthy Snack Selection.vbproj.GenerateResource.cache
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\obj\Debug\Healthy Snack Selection.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\obj\Debug\Healthy Snack Selection.exe
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\obj\Debug\Healthy Snack Selection.xml
+D:\VisualBasic\VB.Chapter.03\Healthy Snack Selection\Healthy Snack Selection\obj\Debug\Healthy Snack Selection.pdb
