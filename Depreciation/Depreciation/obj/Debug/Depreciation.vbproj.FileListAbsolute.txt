@@ -1,0 +1,13 @@
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\bin\Debug\Depreciation.exe.config
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\obj\Debug\Depreciation.vbprojAssemblyReference.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\obj\Debug\Depreciation.frmDisplayInventory.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.CoreCompileInputs.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+H:\Visual Basic 2017\VB17-Chapter.08\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
