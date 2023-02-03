@@ -1,0 +1,39 @@
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\bin\Debug\Dance Band.exe.config
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\bin\Debug\Dance Band.exe
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\bin\Debug\Dance Band.pdb
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\bin\Debug\Dance Band.xml
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\obj\Debug\Dance Band.vbprojAssemblyReference.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDanceBand.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDisplay.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\obj\Debug\Dance_Band.Resources.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.GenerateResource.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.CoreCompileInputs.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\obj\Debug\Dance Band.exe
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\obj\Debug\Dance Band.xml
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band\Dance Band\obj\Debug\Dance Band.pdb
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\bin\Debug\Dance Band.exe.config
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\bin\Debug\Dance Band.exe
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\bin\Debug\Dance Band.pdb
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\bin\Debug\Dance Band.xml
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.vbprojAssemblyReference.cache
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDanceBand.resources
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDisplay.resources
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\obj\Debug\Dance_Band.Resources.resources
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.GenerateResource.cache
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.CoreCompileInputs.cache
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.exe
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.xml
+C:\Users\ds0992854\Downloads\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.pdb
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\bin\Debug\Dance Band.exe.config
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\bin\Debug\Dance Band.exe
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\bin\Debug\Dance Band.pdb
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\bin\Debug\Dance Band.xml
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.vbprojAssemblyReference.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDanceBand.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDisplay.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\obj\Debug\Dance_Band.Resources.resources
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.GenerateResource.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.CoreCompileInputs.cache
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.exe
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.xml
+H:\Visual Basic 2017\VB17-Chapter.08\Dance Band2\Dance Band\Dance Band\Dance Band\obj\Debug\Dance Band.pdb
