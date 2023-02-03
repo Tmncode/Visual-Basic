@@ -1,0 +1,12 @@
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\bin\Debug\BroadwayTicket.exe.config
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\bin\Debug\BroadwayTicket.exe
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\bin\Debug\BroadwayTicket.pdb
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\bin\Debug\BroadwayTicket.xml
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\obj\Debug\BroadwayTicket.vbprojAssemblyReference.cache
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\obj\Debug\BroadwayTicket.frmBroadwayTicket.resources
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\obj\Debug\BroadwayTicket.Resources.resources
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\obj\Debug\BroadwayTicket.vbproj.GenerateResource.cache
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\obj\Debug\BroadwayTicket.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\obj\Debug\BroadwayTicket.exe
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\obj\Debug\BroadwayTicket.xml
+D:\VisualBasic\VB17.Chapter05\BroadwayTicket\BroadwayTicket\obj\Debug\BroadwayTicket.pdb
