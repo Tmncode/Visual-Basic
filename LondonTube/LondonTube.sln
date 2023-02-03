@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LondonTube", "LondonTube\LondonTube.vbproj", "{38A3AFAB-965B-4403-ADCE-A30B52476D88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A3AFAB-965B-4403-ADCE-A30B52476D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A3AFAB-965B-4403-ADCE-A30B52476D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A3AFAB-965B-4403-ADCE-A30B52476D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A3AFAB-965B-4403-ADCE-A30B52476D88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA8C8FC1-8AD8-48EF-BAD8-493C4B9A56AB}
+	EndGlobalSection
+EndGlobal
